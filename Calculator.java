@@ -5,6 +5,6 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        System.out.println("Odpowiedz to: " + add(10, 5));
+        System.out.println("Wynik dodawania to: " + add(10, 5));
     }
 }
